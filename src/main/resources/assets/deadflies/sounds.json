@@ -1,0 +1,10 @@
+{
+  "fly_buzz": {
+    "sounds": [
+      {
+        "name": "deadflies:fly_buzz",
+        "stream": false
+      }
+    ]
+  }
+}
